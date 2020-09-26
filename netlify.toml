@@ -1,6 +1,5 @@
 [[redirects]]
   from = "/"
-  to = "https://www.linkedin.com/in/strubloid/"
-  status = 200
+  to = "https://www.linkedin.com/in/strubloid"
+  status = 301
   force = true
-  headers = {X-From = "Netlify"}
